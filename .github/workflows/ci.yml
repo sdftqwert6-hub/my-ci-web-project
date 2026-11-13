@@ -3,7 +3,7 @@ name: Web Project CI
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   check:
